@@ -2,7 +2,7 @@ import streamlit as st
 from google import genai
 
 st.set_page_config(
-    page_title="VetaSync Assistant",
+    page_title="VetaSync Assistant – Scientific Animal Education AI",
     page_icon="🐾",
     layout="wide"
 )
